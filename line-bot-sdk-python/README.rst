@@ -52,7 +52,7 @@ Usage:
 
     app = Flask(__name__)
 
-    line_bot_api = LineBotApi('YOUR_CHANNEL_ACCESS_TOKEN')
+    line_bot_api = LineBotApi('5zeh2gC/tvJ5ZJ61Caf9e00eoY8yCHOAEyyyBJGj5gFhacJQMvj/l1XJylDWtoIM7ajCytyt6CBw87g6UDtz0dr1N/A8liOfojPi4811IM40eVJQCv1k1zL23bNVOJs365BqEVMgrway7hNG+4G+1wdB04t89/1O/w1cDnyilFU=')
     handler = WebhookHandler('cbf75804cd643951e17972e9293130ba')
 
 
